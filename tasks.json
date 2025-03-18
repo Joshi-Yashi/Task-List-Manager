@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1742291712306,
+    "title": "Learn TypeScript",
+    "description": "Complete a CRUD task",
+    "completed": false
+  },
+  {
+    "id": 1742291712309,
+    "title": "Learn Node.js",
+    "description": "Build a small API",
+    "completed": false
+  },
+  {
+    "id": 1742291712309,
+    "title": "Contribute to Open Source Projects",
+    "description": "Find a GitHub issue",
+    "completed": false
+  },
+  {
+    "id": 1742291712310,
+    "title": "Learn to debug and to become problem solver",
+    "description": "Add unit tests for the project",
+    "completed": false
+  },
+  {
+    "id": 1742300691590,
+    "title": "Learn JavaScript",
+    "description": "Complete a CRUD task",
+    "completed": false
+  },
+  {
+    "id": 1742300691591,
+    "title": "Study Node.js",
+    "description": "Read documentation",
+    "completed": false
+  },
+  {
+    "id": 1742300691592,
+    "title": "Practice JavaScript",
+    "description": "Work on algorithms",
+    "completed": false
+  },
+  {
+    "id": 1742300691594,
+    "title": "Write Stories daily dairies",
+    "description": "Publish a TypeScript article",
+    "completed": false
+  },
+  {
+    "id": 1742300691596,
+    "title": "Workout",
+    "description": "30-minute exercise",
+    "completed": false
+  },
+  {
+    "id": 1742300691598,
+    "title": "Meditation",
+    "description": "10 minutes of mindfulness",
+    "completed": false
+  },
+  {
+    "id": 1742300691600,
+    "title": "Read Book",
+    "description": "Finish one chapter",
+    "completed": false
+  },
+  {
+    "id": 1742300691602,
+    "title": "Learn RESTApi",
+    "description": "Build a small API",
+    "completed": false
+  },
+  {
+    "id": 1742300691603,
+    "title": "Contribute to society",
+    "description": "Find a GitHub issue",
+    "completed": false
+  },
+  {
+    "id": 1742300691612,
+    "title": "Write Tests",
+    "description": "Add unit tests for the project",
+    "completed": false
+  }
+]
